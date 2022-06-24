@@ -60,9 +60,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Xinlei(Leo) Yu"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Xinlei Yu is a Master's student in Computer Engineering at University of Southern California. Previsouly, he graduted from Iowa State University with B.S. in Computer Engineering in 2021."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
