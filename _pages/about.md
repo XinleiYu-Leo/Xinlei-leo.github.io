@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hello World and Everyone! 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+My name is Xinlei Yu, or you can call me Leo. I'm originally from [ChongQing, China (in Chinese 重庆)](https://en.wikipedia.org/wiki/Chongqing). Currently, I'm a first year Master’s student in Computer Engineering at University of Southern California. Ever since moved to LA on Dec 2021, I have been enjoying surrounded by beautiful beaches, breathtaking mountains, and Mediterranean climate here at LA. I like play Soccer, hangout with friends, explore trading market, and learn new things. 
+
+Previsouly, I graduated from [Iowa State University](https://www.iastate.edu/) with B.S.(cum laude) in Computer Engineering in Dec 2021. I have spent four years in this great college in a small town called Ames, and met a lot of firends across the world. During the undergraduate studies, I have been an undergraudate research assistant in [BioCentury Research Farm (AG Enginnering)](https://www.biocenturyresearchfarm.iastate.edu/) and [Dependable Networking and Computing](https://www.ece.iastate.edu/~hongwei/group/index.html)
