@@ -72,6 +72,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/xinlei_yu666/"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin-square"
+      url: "https://www.linkedin.com/in/xinlei-yu/"
 
 footer:
   links:
@@ -81,6 +84,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/xinlei_yu666/"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin-square"
+      url: "https://www.linkedin.com/in/xinlei-yu/"
 
 defaults:
   # _posts
