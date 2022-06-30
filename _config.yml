@@ -32,7 +32,6 @@ permalink: https://xinleiyu-leo.github.io/Xinlei-leo.github.io/index.html
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: PTZ # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 include:
