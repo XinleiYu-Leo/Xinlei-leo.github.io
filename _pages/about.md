@@ -5,7 +5,7 @@ title: "About"
 
 Hello World and Everyone! 
 
-My name is Xinlei Yu, or you can call me Leo. I'm originally from [ChongQing, China (in Chinese 重庆)](https://en.wikipedia.org/wiki/Chongqing). Currently, I'm a first year Master’s student in Computer Engineering at University of Southern California, and I work in [MDL lab](https://sites.usc.edu/mdl/) and [Valero lab](https://valerolab.org/) supervised by Dr. Stacey Dusing and Dr. Francisco Valero-Cuevas. 
+My name is Xinlei Yu, or you can call me Leo. I'm originally from [ChongQing, China (in Chinese 重庆)](https://en.wikipedia.org/wiki/Chongqing). Currently, I'm a first year Master’s student in Computer Engineering at University of Southern California, and I work in [MDL lab](https://sites.usc.edu/mdl/) and [Valero lab](https://valerolab.org/) supervised by Dr. Stacey Dusing and Dr. Francisco Valero-Cuevas respectively. 
 
 Ever since moved to LA on Dec 2021, I have been enjoying surrounded by beautiful beaches, breathtaking mountains, and Mediterranean climate here at LA. I like play Soccer, hangout with friends, explore trading market, and learn new things. 
 
