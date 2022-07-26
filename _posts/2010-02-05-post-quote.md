@@ -1,5 +1,5 @@
 ---
-title: "Post: Quote"
+title: "Post: Some of My Favorite Quote"
 categories:
   - Blog
 tags:
