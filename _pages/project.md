@@ -4,6 +4,7 @@ title: "Project"
 ---
 
 
+---
 **Artsy Android App**											 	                                                                    June 2022
 
 -Built an Android mobile application for users to search for different artists, look at detailed information about them(artwork image, bio, description, etc.), and add them to favorites.
@@ -11,7 +12,8 @@ title: "Project"
 -Utilized Volly library to send HTTP requests to Node.js backend which forward the request calls to Arty.net APIs and return filtered JSON file to Android App. The backend Node.js server is deployed on the Google Cloud Platform. 
 
 -Used Picasso library to load images from URL.
-  
+
+---
   
   
   
@@ -23,7 +25,7 @@ title: "Project"
 
 -Deployed backend Node.js server on the Google Cloud Platform, which is written in Javascript using the express library to make HTTP requests to Artsy APIs. Python Flask version backend is available and deployed on the Google Cloud Platform as well. 
 
-
+---
 
 
 **IoT Smart Light (Senior Design Project)**					                                                              Jan 2021-Dec 2021
@@ -34,7 +36,7 @@ title: "Project"
 
 -Delivered Python APIs for Xbee coordinators to interact with UI and databases with XBee Python Library by transmitted package. The package includes field light ID, name, mac address, and status. 
 
-
+---
 
 **Clustcore (Software Development Class)**					                                                              Aug 2019-Dec 2019
 
@@ -44,7 +46,7 @@ title: "Project"
 
 -Utilized Android Canvas API to implement all of the visualizations on front-end, ObjectContainer to contain objects and characters in-game, and WebSocket and JSON to update the game in real time between server and clients/players. 
 
-
+---
 
 **Blockchain-enabled Flight Travel Insurance System**		                                                         April 2021-May 2021
 
@@ -52,7 +54,7 @@ title: "Project"
 
 -Designed a  smart contract extension from a basic insurance contract. The insurance can verify claims using provided data (weather, locations, and time) and pay indemnities when passengers lose in test Ethers. 
 
-
+---
 
 **Autonomous Cleaning Robot**							                                                                        April 2019-May 2019
 
@@ -60,3 +62,4 @@ title: "Project"
 
 -Established a decision-making algorithm to perform for choosing a moving direction based on calibrated radar and ultrasonic sensors input. 
 
+---
