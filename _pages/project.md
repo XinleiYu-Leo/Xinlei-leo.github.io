@@ -7,11 +7,9 @@ title: "Project"
 ---
 **Artsy Android App**											 	                                                                    June 2022
 
--Built an Android mobile application for users to search for different artists, look at detailed information about them(artwork image, bio, description, etc.), and add them to favorites.
+Built an Android mobile application for users to search for different artists from Artsy’s database, look at detailed information about them(artwork image, bio, description, etc.) using various Artsy APIs, and add them to favorites for easy access.
 
--Utilized Volly library to send HTTP requests to Node.js backend which forwards the request calls to Arty.net APIs and returns filtered JSON file to Android App. The backend Node.js server is deployed on the Google Cloud Platform. 
-
--Used Picasso library to load images from URL.
+The project is also on the Web version. Another version of backends written in Node.js is also available.
 
 <img src="/assets/images/ArtsyImage.png" alt="Artsy Web Site Demo Image" style="height: 400px; width:600px;"/>
 ---
