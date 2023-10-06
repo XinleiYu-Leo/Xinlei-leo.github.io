@@ -13,7 +13,7 @@ title: "Project"
 
 -Used Picasso library to load images from URL.
 
-<img src="/assets/ArtsyImage.png" alt="Artsy Web Site Demo Image" style="height: 400px; width:600px;"/>
+<img src="/assets/images/ArtsyImage.png" alt="Artsy Web Site Demo Image" style="height: 400px; width:600px;"/>
 ---
   
   
