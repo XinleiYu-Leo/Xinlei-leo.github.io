@@ -5,7 +5,6 @@ title: "Project"
 
 ---
 Master's Project 
-
 ---
 **Artsy Android App**											 	                                                                    June 2022
 
