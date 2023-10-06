@@ -11,7 +11,7 @@ Master's Project
 
 Built a GPT-based chatbot with a custom haptic research database using LangChain(call embedding model), LlamaIndex(vector indexing), OpenAI APIs, and gradio(lightweight UI). Provided researchers with a chatbot with the latest and custom database in the research domain and the power of chatGPT.
 
-<img src="/assets/images/chatBot.png" alt="Chat Bot Demo Image" style="height: 400px; width:700px;"/>
+<img src="/assets/images/chatBot.png" alt="Chat Bot Demo Image" style="height: 400px; width:900px;"/>
 
 
 ---
@@ -24,7 +24,7 @@ Designed a computer vision-based infant motor learning assistant toy(patent pend
 As the toy is under the patent review process, although I'm happy to share this exciting invention, I could not disclose many details.
 
 
-<img src="/assets/images/TTT.png" alt="3T Image" style="height: 500px; width:300px;"/>
+<img src="/assets/images/TTT.png" alt="3T Image" style="height: 500px; width:400px;"/>
 
 
 ---
@@ -55,9 +55,9 @@ Undergraduate Project
 
 -Implemented frontend and UI for a bullet hell multiplayer game on Android devices in Java with Android Studio. Each user can sign up or log in with a pair of usernames and passwords to join a game. 
 
--Devised multi-player game’s backend using SpringBoot with Rest API  and MySQL Database to contain user’s information, connections, and logs.
+-Devised multi-player game’s backend using SpringBoot with Rest API  and MySQL Database to contain user information, connections, and logs.
 
--Utilized Android Canvas API to implement all of the visualizations on front-end, ObjectContainer to contain objects and characters in-game, and WebSocket and JSON to update the game in real time between server and clients/players. 
+-Utilized Android Canvas API to implement all of the visualizations on the front-end, ObjectContainer to contain objects and characters in-game, and WebSocket and JSON to update the game in real time between server and clients/players. 
 
 ---
 
