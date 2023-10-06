@@ -3,6 +3,8 @@ permalink: /project/
 title: "Project"
 ---
 
+---
+Master's Project 
 
 ---
 **Artsy Android App**											 	                                                                    June 2022
@@ -13,20 +15,10 @@ The project is also on the Web version. Another version of backends written in N
 
 <img src="/assets/images/ArtsyImage.png" alt="Artsy Web Site Demo Image" style="height: 400px; width:600px;"/>
 ---
-  
-  
-  
-**Artsy Web App**										                                                                             May 2022-June 2022
 
--Built a Web application for users to search for different artists, and look at detailed information(artwork image, bio, description, etc.)  about them.
 
--Implemented responsive frontend with Angular and Bootstrap framework. The front makes HTTP requests using HttpClientModule of Angular for AJAX  to the backend and displays search results based on the return JSON file. 
-
--Deployed backend Node.js server on the Google Cloud Platform, which is written in Javascript using the express library to make HTTP requests to Artsy APIs. Python Flask version backend is available and deployed on the Google Cloud Platform as well. 
-
+Undergraduate Project
 ---
-
-
 **IoT Smart Light (Senior Design Project)**					                                                              Jan 2021-Dec 2021
 
 -Built a web-based User Interface leveraging Python, Django, and CSS for hosting lab simulations of cyberattacks on power grid.
