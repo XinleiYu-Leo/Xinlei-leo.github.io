@@ -60,15 +60,15 @@ plugins:
 
 author:
   name   : "Xinlei(Leo) Yu"
-  avatar : "/assets/images/myself.png"
+  avatar : "/assets/images/myself_new.png"
   bio    : "Xinlei Yu is a Master's student in Computer Engineering at University of Southern California. <br /> Previsouly, he graduated from Iowa State University with B.S. in Computer Engineering in 2021."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "GitHub"
+      url: "https://xinleiyu-leo.github.io/Xinlei-leo.github.io/about/"
+    - label: "GitHub with USC"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/xinleiyuUSC"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/xinlei_yu666/"
@@ -78,9 +78,9 @@ author:
 
 footer:
   links:
-    - label: "GitHub"
+    - label: "GitHub with USC"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/xinleiyuUSC"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/xinlei_yu666/"
