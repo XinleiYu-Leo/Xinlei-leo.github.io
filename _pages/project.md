@@ -9,10 +9,11 @@ title: "Project"
 
 -Built an Android mobile application for users to search for different artists, look at detailed information about them(artwork image, bio, description, etc.), and add them to favorites.
 
--Utilized Volly library to send HTTP requests to Node.js backend which forward the request calls to Arty.net APIs and return filtered JSON file to Android App. The backend Node.js server is deployed on the Google Cloud Platform. 
+-Utilized Volly library to send HTTP requests to Node.js backend which forwards the request calls to Arty.net APIs and returns filtered JSON file to Android App. The backend Node.js server is deployed on the Google Cloud Platform. 
 
 -Used Picasso library to load images from URL.
 
+<img src="/assets/ArtsyImage.png" alt="Artsy Web Site Demo Image" style="height: 400px; width:600px;"/>
 ---
   
   
@@ -21,7 +22,7 @@ title: "Project"
 
 -Built a Web application for users to search for different artists, and look at detailed information(artwork image, bio, description, etc.)  about them.
 
--Implemented responsive frontend with Angular and Bootstrap framework. The frontend makes HTTP requests using HttpClientModule of Angular for AJAX  to the backend and displays search results based on the return JSON file. 
+-Implemented responsive frontend with Angular and Bootstrap framework. The front makes HTTP requests using HttpClientModule of Angular for AJAX  to the backend and displays search results based on the return JSON file. 
 
 -Deployed backend Node.js server on the Google Cloud Platform, which is written in Javascript using the express library to make HTTP requests to Artsy APIs. Python Flask version backend is available and deployed on the Google Cloud Platform as well. 
 
