@@ -34,8 +34,8 @@ Built an Android mobile application for users to search for different artists fr
 
 The project is also on the Web version. Another version of backends written in Node.js is also available.
 
-<img src="/assets/images/ArtsyImage.png" alt="Artsy Web Site Demo Image" style="height: 400px; width:700px;"/>
-<img src="/assets/images/ArtsyImage2.png" alt="Artsy Web Site Demo Image" style="height: 400px; width:700px;"/>
+<img src="https://github.com/XinleiYu-Leo/Xinlei-leo.github.io/blob/master/assets/images/ArtsyImage.png" alt="Artsy Web Site Demo Image" style="height: 400px; width:700px;"/>
+<img src="https://github.com/XinleiYu-Leo/Xinlei-leo.github.io/blob/master/assets/images/ArtsyImage2.png" alt="Artsy Web Site Demo Image" style="height: 400px; width:700px;"/>
 
 
 
