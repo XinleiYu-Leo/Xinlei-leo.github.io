@@ -11,7 +11,7 @@ Master's Project
 
 Built a GPT-based chatbot with a custom haptic research database using LangChain(call embedding model), LlamaIndex(vector indexing), OpenAI APIs, and gradio(lightweight UI). Provided researchers with a chatbot with the latest and custom database in the research domain and the power of chatGPT.
 
-<img src="https://github.com/XinleiYu-Leo/Xinlei-leo.github.io/blob/master/assets/images/chatBot.png" alt="Chat Bot Demo Image" style="height: 400px; width:900px;"/>
+<img src="assets/images/chatBot.png" alt="Chat Bot Demo Image" style="height: 400px; width:900px;"/>
 
 
 ---
