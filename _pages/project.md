@@ -6,12 +6,17 @@ title: "Project"
 Master's Project 
 ---
 
+**Ongoing Project: Wearable Electrotactile Rendering Deivce**		            
+
+Coming Soon.
+
+---
 
 **Personal Project: Haptic Knowledge Base chatBot**											 	                                                                  (May 2023)
 
 Built a GPT-based chatbot with a custom haptic research database using LangChain(call embedding model), LlamaIndex(vector indexing), OpenAI APIs, and gradio(lightweight UI). Provided researchers with a chatbot with the latest and custom database in the research domain and the power of chatGPT.
 
-<img src="/assets/images/chatBot.png" alt="Chat Bot Demo Image" style="height: 400px; width:900px;"/>
+<img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/chatBot.png" alt="Chat Bot Demo Image" style="height: 400px; width:900px;"/>
 
 
 ---
