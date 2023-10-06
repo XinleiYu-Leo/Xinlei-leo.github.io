@@ -13,7 +13,7 @@ The project is also on the Web version. Another version of backends written in N
 
 <img src="/assets/images/ArtsyImage.png" alt="Artsy Web Site Demo Image" style="height: 400px; width:700px;"/>
 <img src="/assets/images/ArtsyImage2.png" alt="Artsy Web Site Demo Image" style="height: 400px; width:700px;"/>
----
+
 
 
 Undergraduate Project
