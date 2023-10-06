@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Xinlei(Leo) Yu"
   avatar : "/assets/images/myself_new.png"
-  bio    : "Xinlei Yu is a Master's student in Computer Engineering at University of Southern California. <br /> Previsouly, he graduated from Iowa State University with B.S. in Computer Engineering in 2021."
+  bio    : "My name is Xinlei Yu. I'm from ChongQing, China. Currently, I'm a second-year Master's student in Computer Engineering at the University of Southern California in Los Angeles, and I work in HaVRI Lab advised by Dr. Heather Culbertson, where I design and develop wearable electroactive rendering device. In the first of my master's research, I worked in Valero lab supervised by Dr. Francisco Valero-Cuevas, where I developed a computer vision-based Infant Motor Learning Assistant Toy."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
