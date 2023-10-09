@@ -1,14 +1,16 @@
 ---
 permalink: /project/
-title: "Project"
+title: "Selected Projects"
 ---
 
-Master's Project 
+Master's Project (2022-2023) 
 ---
 
 **Ongoing Project: Wearable Electrotactile Rendering Device**		            
 
 Working on a haptic project that investigates the human perception of and emotional response to electro-tactile stimulation. The further goal is to build a personalize and pleasant electro-tactile device that works seamlessly with other stimulus modalities such as visual and auditory. 
+
+
 
 ---
 
@@ -33,7 +35,7 @@ As the toy is under the patent review process, although I'm happy to share this 
 
 
 ---
-**Course Project: Artsy Android App**											 	                                                                    (June 2022)
+**Course Project: Artsy Web/Android App**											 	                                                                    (June 2022)
 
 Built an Android mobile application for users to search for different artists from Artsy’s database, look at detailed information about them(artwork image, bio, description, etc.) using various Artsy APIs, and add them to favorites for easy access.
 
@@ -44,7 +46,7 @@ The project is also on the Web version. Another version of backends written in N
 
 
 
-Undergraduate Project
+Undergraduate Project (2018-2021)
 ---
 **Senior Design Project: IoT Smart Light (Senior Design Project)**					                                                              (Jan 2021-Dec 2021)
 
