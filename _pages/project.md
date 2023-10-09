@@ -10,9 +10,9 @@ title: "Selected Projects"
 
 Working on a haptic project that investigates the human perception of and emotional response to **electro-tactile stimulation**. The further goal is to build a **personalized** and **pleasant** electro-tactile device that **works seamlessly with other stimulus** modalities such as visual and auditory. 
 
-
-<img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/sleeve_prototype.png" alt="Sleeve Image" style="height: 500px; width:500px;"/>
 Electro-tactile Sleeve prototype
+<img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/sleeve_prototype.png" alt="Sleeve Image" style="height: 500px; width:500px;"/>
+
 
 ---
 
@@ -20,7 +20,7 @@ Electro-tactile Sleeve prototype
 
 Built a GPT-based chatbot with a custom haptic research database using LangChain(call embedding model), LlamaIndex(vector indexing), OpenAI APIs, and gradio(lightweight UI). Provided researchers with a chatbot with the latest and custom database in the research domain and the power of chatGPT.
 
-<img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/chatBot.png" alt="Chat Bot Demo Image" style="height: 320px; width:900px;"/>
+<img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/chatBot.png" alt="Chat Bot Demo Image" style="height: 300px; width:900px;"/>
 
 
 ---
