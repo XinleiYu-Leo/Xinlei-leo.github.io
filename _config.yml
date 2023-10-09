@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Xinlei(Leo) Yu"
   avatar : "/assets/images/myself_new.png"
-  bio    : "Xinlei is a second-year Master's student in Computer Engineering at the University of Southern California in Los Angeles, and work in HaVRI Lab advised by Dr. Heather Culbertson, where he designs and develops wearable electroactive rendering device."
+  bio    : "Xinlei is a Master's student in Computer Engineering at the University of Southern California"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
