@@ -6,9 +6,9 @@ title: "Project"
 Master's Project 
 ---
 
-**Ongoing Project: Wearable Electrotactile Rendering Deivce**		            
+**Ongoing Project: Wearable Electrotactile Rendering Device**		            
 
-Coming Soon.
+Working on a haptic project that investigates the human perception of and emotional response to electro-tactile stimulation. The further goal is to build a personalize and pleasant electro-tactile device that works seamlessly with other stimulus modalities such as visual and auditory. 
 
 ---
 
@@ -16,7 +16,7 @@ Coming Soon.
 
 Built a GPT-based chatbot with a custom haptic research database using LangChain(call embedding model), LlamaIndex(vector indexing), OpenAI APIs, and gradio(lightweight UI). Provided researchers with a chatbot with the latest and custom database in the research domain and the power of chatGPT.
 
-<img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/chatBot.png" alt="Chat Bot Demo Image" style="height: 400px; width:900px;"/>
+<img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/chatBot.png" alt="Chat Bot Demo Image" style="height: 320px; width:900px;"/>
 
 
 ---
@@ -24,7 +24,7 @@ Built a GPT-based chatbot with a custom haptic research database using LangChain
 
 **Research Project: Tummy Time Toy**											 	                                                                   (July 2022 to April 2023)
 
-Designed a computer vision-based infant motor learning assistant toy(patent pending) called Tummy Time Toy to study if babies can learn to control their bodies on their tummy. If so, the toy could help infants develop muscle control and tolerance of tummy time. The toy consists of two parts: front-end and back-end. The front end allows users to control the toy. The back end implements CV, control logic, and other APIs.
+Designed a computer vision-based infant motor learning assistant toy, aptly named the "Tummy Time Toy" (patent pending). This toy, similar to a play gym, rewards infants with lights and music when they lift their heads past a certain threshold, encouraging the development of prone motor skills. Its primary goal is to study if babies can learn to control their bodies when on their tummy, potentially assisting in muscle control and increasing tummy time tolerance. From a technical perspective, the toy is divided into two components: the front-end, which offers user interaction, and the back-end, responsible for computer vision, control logic, and various APIs.
 
 As the toy is under the patent review process, although I'm happy to share this exciting invention, I could not disclose many details.
 
