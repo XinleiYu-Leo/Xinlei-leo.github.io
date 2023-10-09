@@ -18,7 +18,7 @@ Electro-tactile Sleeve prototype
 
 ## Personal Project: Haptic Knowledge Base chatBot											 	                                                                  (May 2023)
 
-Built a GPT-based chatbot with a custom haptic research database using LangChain(call embedding model), LlamaIndex(vector indexing), OpenAI APIs, and gradio(lightweight UI). Provided researchers with a chatbot with the latest and custom database in the research domain and the power of chatGPT.
+Built a GPT-based chatbot with a custom haptic research database using LangChain(call embedding model), LlamaIndex(vector indexing), OpenAI APIs, and gradio(lightweight UI). Provided researchers with a chatbot with the latest and custom database in the research domain and the power of chatGPT. [GitHub Link](https://github.com/xinleiyuUSC/haptics_chatBot)
 
 <img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/chatBot.png" alt="Chat Bot Demo Image" style="height: 300px; width:900px;"/>
 
@@ -28,7 +28,7 @@ Built a GPT-based chatbot with a custom haptic research database using LangChain
 
 ## Research Project: Tummy Time Toy										 	                                                                   (July 2022 to April 2023)
 
-Designed a computer vision-based infant motor learning assistant toy, aptly named the "Tummy Time Toy" (patent pending). This toy, similar to a play gym, rewards infants with lights and music when they lift their heads past a certain threshold, encouraging the development of prone motor skills. Its primary goal is to study if babies can learn to control their bodies when on their tummy, potentially assisting in muscle control and increasing tummy time tolerance. From a technical perspective, the toy is divided into two components: the front-end, which offers user interaction, and the back-end, responsible for computer vision, control logic, and various APIs.
+Designed a computer vision-based infant motor learning assistant toy, aptly named the "Tummy Time Toy" (patent pending). This toy, similar to a play gym, rewards infants with lights and music when they lift their heads past a certain threshold, encouraging the development of prone motor skills. Its primary goal is to study if babies can learn to control their bodies when on their tummy, potentially assisting in muscle control and increasing tummy time tolerance. From a technical perspective, the toy is divided into two components: the front end, which offers user interaction, and the back end, responsible for computer vision, control logic, and various APIs.
 
 As the toy is under the patent review process, although I'm happy to share this exciting invention, I could not disclose many details.
 
@@ -39,7 +39,7 @@ As the toy is under the patent review process, although I'm happy to share this 
 ---
 ## Course Project: Artsy Web/Android App											 	                                                                    (June 2022)
 
-Built an Android mobile application for users to search for different artists from Artsy’s database, look at detailed information about them(artwork image, bio, description, etc.) using various Artsy APIs, and add them to favorites for easy access.
+Built an Android mobile application for users to search for different artists from Artsy’s database, look at detailed information about them(artwork image, bio, description, etc.) using various Artsy APIs, and add them to favorites for easy access. [GitHub Link](https://github.com/XinleiYu-Leo/Artsy_App)
 
 The project is also on the Web version. Another version of backends written in Node.js is also available.
 
@@ -50,13 +50,13 @@ The project is also on the Web version. Another version of backends written in N
 
 # Undergraduate Project (2018-2021)
 ---
-## Senior Design Project: IoT Smart Light (Senior Design Project)					                                                              (Jan 2021-Dec 2021)
+## Senior Design Project: IoT Smart Light (Senior Design Project)[Website Link](https://sddec21-20.sd.ece.iastate.edu/)					                                                              (Jan 2021-Dec 2021)
 
 -Built a web-based User Interface leveraging Python, Django, and CSS for hosting lab simulations of cyberattacks on the power grid.
 
 -Architected backends and databases utilizing Python and SQLite3 to provide database operations for 32 Zigbee lights data and query simulation data in binary from CVS files.
 
--Delivered Python APIs for Xbee coordinators to interact with UI and databases with XBee Python Library by transmitted package. The package includes field light ID, name, mac address, and status. 
+-Delivered Python APIs for Xbee coordinators to interact with UI and databases with XBee Python Library by transmitted package. The package includes field light ID, name, Mac address, and status. 
 
 ---
 
