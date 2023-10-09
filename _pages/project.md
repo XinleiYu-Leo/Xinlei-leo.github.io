@@ -11,7 +11,7 @@ Master's Project (2022-2023)
 Working on a haptic project that investigates the human perception of and emotional response to electro-tactile stimulation. The further goal is to build a personalized and pleasant electro-tactile device that works seamlessly with other stimulus modalities such as visual and auditory. 
 
 
-<img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/sleeve_prototype.png" alt="Sleeve Image" style="height: 500px; width:400px;"/>
+<img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/sleeve_prototype.png" alt="Sleeve Image" style="height: 500px; width:500px;"/>
 Electro-tactile Sleeve prototype
 
 ---
