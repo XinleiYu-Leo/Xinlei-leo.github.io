@@ -58,6 +58,10 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+assets:
+  - "assets/custom.css"
+
+
 author:
   name   : "Xinlei(Leo) Yu"
   avatar : "/assets/images/myself_new.png"
