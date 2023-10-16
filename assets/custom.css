@@ -1,3 +1,17 @@
-.main__content {
-  max-width:  80%;  /* or your desired percentage */
+.page-content {
+  width: {{ site.responsive_width[0].size }}; 
+}
+
+/* Media Queries */
+
+@media {{ site.responsive_width[1].media }} {
+  .page-content {
+    width: {{ site.responsive_width[1].size }};
+  }
+}
+
+@media {{ site.responsive_width[2].media }} {
+  .page-content {  
+    width: {{ site.responsive_width[2].size }};
+  }
 }
