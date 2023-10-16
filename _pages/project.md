@@ -1,5 +1,6 @@
 ---
 permalink: /project/
+title: "Projects"
 ---
 
 # Master's Project (2022-2023)
