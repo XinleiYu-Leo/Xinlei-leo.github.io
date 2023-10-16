@@ -26,19 +26,21 @@ Built a **GPT-based chatbot** with a custom haptic research database using LangC
 ---
 
 
-## Research Project: Tummy Time Toy										 	                                                                   (July 2022 to April 2023)
+## Research Project: Tummy Time Toy										 	                                                                   (July 2022 to April 2023) Demo available!
 
-Designed a **computer vision-based infant motor learning assistant toy**, aptly named the "Tummy Time Toy" (patent pending). This toy, similar to a play gym, **rewards infants** with lights and music when they lift their heads past a certain threshold, encouraging the development of **prone motor skills**. Its primary goal is to study if babies can learn to control their bodies when on their tummy, potentially assisting in **muscle control** and **increasing tummy time tolerance**. From a technical perspective, the toy is divided into two components: the front end, which offers user interaction, and the back end, responsible for computer vision, control logic, and various APIs.
+Designed a **computer vision-based infant motor learning assistant toy**, aptly named the "Tummy Time Toy" (patent pending). This toy, similar to a play gym, **rewards infants** with lights and music when they lift their heads past a certain threshold, encouraging the development of **prone motor skills**. Its primary goal is to study if babies can learn to control their bodies when on their tummy, potentially assisting in **muscle control** and **increasing tummy time tolerance**. From a technical perspective, the toy is divided into two components: the front end, which offers user interaction, and the back end, which is responsible for computer vision, control logic, and various APIs.
 
-As the toy is under the patent review process, although I'm happy to share this exciting invention, I could not disclose many details.
+Although the toy is under the patent review process, I'm happy to share this exciting invention. 
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+**Please check out the demo below by clicking the picture below, which is a short demo presented at NSF DARE conference 2023.**
+
+[![3T Demo](https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/3T_Demo_DARE-Cover.jpg)](https://youtu.be/6PznLd5wy5c "3T Demo")
 
 
 ---
 ## Course Project: Artsy Web/Android App											 	                                                                    (June 2022)
 
-Built an Android mobile application for users to search for different artists from Artsy’s database, look at detailed information about them(artwork image, bio, description, etc.) using various Artsy APIs, and add them to favorites for easy access. [GitHub Link](https://github.com/XinleiYu-Leo/Artsy_App)
+Built an Android mobile application for users to search for artists from Artsy’s database, look at detailed information about them(artwork image, bio, description, etc.) using various Artsy APIs, and add them to favorites for easy access. [GitHub Link](https://github.com/XinleiYu-Leo/Artsy_App)
 
 The project is also on the Web version. Another version of backends written in Node.js is also available.
 
