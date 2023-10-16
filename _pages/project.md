@@ -9,7 +9,7 @@ title: "Selected Projects"
 
 Working on a haptic project that investigates the human perception of and emotional response to <strong>electro-tactile stimulation</strong>. The further goal is to build a <strong>personalized</strong> and <strong>pleasant</strong> electro-tactile device that <strong>works seamlessly with other stimulus</strong> modalities such as visual and auditory.
 
-At the recent Southern California Robotics Symposium, I had the privilege of presenting our preliminary research on the effect of perception of electro-tactile stimulation. The symposium, renowned for gathering the brightest minds in robotics from the Southern California region including USC, UCLA, Cal Tech, UCI, etc., provided an engaging platform for discourse on emerging trends and technologies. 
+At the recent Southern California Robotics Symposium, I had the privilege of presenting our preliminary research on the effect of perception of electro-tactile stimulation. [The details of the symposium can be found here.](https://sites.uci.edu/scr2023/schedule/) The symposium, renowned for gathering the brightest minds in robotics from the Southern California region including USC, UCLA, Cal Tech, UCI, etc., provided an engaging platform for discourse on emerging trends and technologies. 
 <img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/talk_SCR.png" alt="Sleeve Image" style="height: 700px; width:1000px;"/>
 
 Electro-tactile Sleeve prototype
