@@ -6,7 +6,7 @@ title: "Selected Projects"
 # Master's Project (2022-2023)
 ---
 
-## Ongoing Project: Wearable Electrotactile Rendering Device		            
+* ## Ongoing Project: Wearable Electrotactile Rendering Device		            
 
 Working on a haptic project that investigates the human perception of and emotional response to **electro-tactile stimulation**. The further goal is to build a **personalized** and **pleasant** electro-tactile device that **works seamlessly with other stimulus** modalities such as visual and auditory. 
 
@@ -16,7 +16,7 @@ Electro-tactile Sleeve prototype
 
 ---
 
-## Personal Project: Haptic Knowledge Base chatBot											 	                                                                  (May 2023)
+* ## Personal Project: Haptic Knowledge Base chatBot											 	                                                                  (May 2023)
 
 Built a **GPT-based chatbot** with a custom haptic research database using LangChain(call embedding model), LlamaIndex(vector indexing), OpenAI APIs, and gradio(lightweight UI). Provided researchers with a chatbot with the latest and custom database in the research domain and the power of chatGPT. [GitHub Link](https://github.com/xinleiyuUSC/haptics_chatBot)
 
@@ -26,7 +26,7 @@ Built a **GPT-based chatbot** with a custom haptic research database using LangC
 ---
 
 
-## Research Project: Tummy Time Toy										 	                                                                   (July 2022 to April 2023) [Demo available!](https://youtu.be/6PznLd5wy5c)
+* ## Research Project: Tummy Time Toy										 	                                                                   (July 2022 to April 2023) [Demo available!](https://youtu.be/6PznLd5wy5c)
 
 Designed a **computer vision-based infant motor learning assistant toy**, aptly named the "Tummy Time Toy" (patent pending). This toy, similar to a play gym, **rewards infants** with lights and music when they lift their heads past a certain threshold, encouraging the development of **prone motor skills**. Its primary goal is to study if babies can learn to control their bodies when on their tummy, potentially assisting in **muscle control** and **increasing tummy time tolerance**. From a technical perspective, the toy is divided into two components: the front end, which offers user interaction, and the back end, which is responsible for computer vision, control logic, and various APIs.
 
@@ -38,7 +38,7 @@ Although the toy is under the patent review process, I'm happy to share this exc
 
 
 ---
-## Course Project: Artsy Web/Android App											 	                                                                    (June 2022)
+* ## Course Project: Artsy Web/Android App											 	                                                                    (June 2022)
 
 Built an Android mobile application for users to search for artists from Artsy’s database, look at detailed information about them(artwork image, bio, description, etc.) using various Artsy APIs, and add them to favorites for easy access. [GitHub Link](https://github.com/XinleiYu-Leo/Artsy_App)
 
@@ -51,7 +51,7 @@ The project is also on the Web version. Another version of backends written in N
 
 # Undergraduate Project (2018-2021)
 ---
-## Senior Design Project: IoT Smart Light (Senior Design Project)[Website Link](https://sddec21-20.sd.ece.iastate.edu/)					                                                              (Jan 2021-Dec 2021)
+* ## Senior Design Project: IoT Smart Light (Senior Design Project)[Website Link](https://sddec21-20.sd.ece.iastate.edu/)					                                                              (Jan 2021-Dec 2021)
 
 -Built a web-based User Interface leveraging Python, Django, and CSS for hosting lab simulations of cyberattacks on the power grid.
 
@@ -61,7 +61,7 @@ The project is also on the Web version. Another version of backends written in N
 
 ---
 
-## Course Project: Clustcore (Software Development Class)					                                                              (Aug 2019-Dec 2019)
+* ## Course Project: Clustcore (Software Development Class)					                                                              (Aug 2019-Dec 2019)
 
 -Implemented frontend and UI for a bullet hell multiplayer game on Android devices in Java with Android Studio. Each user can sign up or log in with a pair of usernames and passwords to join a game. 
 
@@ -71,7 +71,7 @@ The project is also on the Web version. Another version of backends written in N
 
 ---
 
-## Course Project: Blockchain-enabled Flight Travel Insurance System		                                                         (April 2021-May 2021)
+* ## Course Project: Blockchain-enabled Flight Travel Insurance System		                                                         (April 2021-May 2021)
 
 -Deployed a dozen Ethereum smart contracts using Solidity with Remix IDE.  Users can purchase flight insurance policies and file claims based on given conditions. The smart contracts were deployed on the Ropsten Test Ethereum network with Metamask. 
 
@@ -79,7 +79,7 @@ The project is also on the Web version. Another version of backends written in N
 
 ---
 
-## Course Project: Autonomous Cleaning Robot							                                                                        (April 2019-May 2019)
+* ## Course Project: Autonomous Cleaning Robot							                                                                        (April 2019-May 2019)
 
 -Developed an iRobot Create cleaning robot using C with TI Launchpad that can autonomously navigate through a pipe maze and reach the designated destination, while mapping obstacles it encounters to a Graphic User Interface (Putty).
 
