@@ -4,9 +4,8 @@ title: "Selected Projects"
 ---
 
 # Master's Project (2022-2023)
----
 
-* ## Ongoing Project: Wearable Electrotactile Rendering Device		            
+## Ongoing Project: Wearable Electrotactile Rendering Device		            
 
 Working on a haptic project that investigates the human perception of and emotional response to **electro-tactile stimulation**. The further goal is to build a **personalized** and **pleasant** electro-tactile device that **works seamlessly with other stimulus** modalities such as visual and auditory. 
 
@@ -15,7 +14,6 @@ Electro-tactile Sleeve prototype
 
 
 ---
-
 * ## Personal Project: Haptic Knowledge Base chatBot											 	                                                                  (May 2023)
 
 Built a **GPT-based chatbot** with a custom haptic research database using LangChain(call embedding model), LlamaIndex(vector indexing), OpenAI APIs, and gradio(lightweight UI). Provided researchers with a chatbot with the latest and custom database in the research domain and the power of chatGPT. [GitHub Link](https://github.com/xinleiyuUSC/haptics_chatBot)
