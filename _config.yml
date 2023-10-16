@@ -34,8 +34,8 @@ paginate_path: /page:num/
 timezone: PTZ # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-theme:
-  width: 1200px
+sidebar_sticky: true
+sidebar_wide: true
 
 
 
