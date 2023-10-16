@@ -7,7 +7,7 @@ title: "Selected Projects"
 
 ## Ongoing Project: Wearable Electrotactile Rendering Device		    
 
-<h5>Working on a haptic project that investigates the human perception of and emotional response to <strong>electro-tactile stimulation</strong>. The further goal is to build a <strong>personalized</strong> and <strong>pleasant</strong> electro-tactile device that <strong>works seamlessly with other stimulus</strong> modalities such as visual and auditory.</h5>
+Working on a haptic project that investigates the human perception of and emotional response to <strong>electro-tactile stimulation</strong>. The further goal is to build a <strong>personalized</strong> and <strong>pleasant</strong> electro-tactile device that <strong>works seamlessly with other stimulus</strong> modalities such as visual and auditory.
 
 
 #### Electro-tactile Sleeve prototype
