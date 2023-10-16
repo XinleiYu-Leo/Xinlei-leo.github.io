@@ -26,7 +26,7 @@ Built a **GPT-based chatbot** with a custom haptic research database using LangC
 ---
 
 
-## Research Project: Tummy Time Toy										 	                                                                   (July 2022 to April 2023) Demo available!
+## Research Project: Tummy Time Toy										 	                                                                   (July 2022 to April 2023) [Demo available!](https://youtu.be/6PznLd5wy5c)
 
 Designed a **computer vision-based infant motor learning assistant toy**, aptly named the "Tummy Time Toy" (patent pending). This toy, similar to a play gym, **rewards infants** with lights and music when they lift their heads past a certain threshold, encouraging the development of **prone motor skills**. Its primary goal is to study if babies can learn to control their bodies when on their tummy, potentially assisting in **muscle control** and **increasing tummy time tolerance**. From a technical perspective, the toy is divided into two components: the front end, which offers user interaction, and the back end, which is responsible for computer vision, control logic, and various APIs.
 
