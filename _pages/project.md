@@ -32,7 +32,7 @@ Designed a **computer vision-based infant motor learning assistant toy**, aptly 
 
 As the toy is under the patent review process, although I'm happy to share this exciting invention, I could not disclose many details.
 
-[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/TTT.png)](https://www.youtube.com/watch?v=eVEims302MM)
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 
 ---
