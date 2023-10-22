@@ -11,4 +11,4 @@ Previously, he graduated from Iowa State University with B.S.(cum laude) in Comp
 
 He likes various sports and outdoor activities. Mainly, he likes playing soccer and competing in the IM league with friends.:soccer: And he has a cat friend named Lil' Grey. 🐱
 
-You can find Xinlei's CV at [link (temporary outage)](https://www.iastate.edu/).
+You can find Xinlei's CV at [link](https://github.com/XinleiYu-Leo/Xinlei-leo.github.io/blob/master/cv_Xinlei_Yu.pdf).
