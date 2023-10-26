@@ -35,7 +35,7 @@ timezone: PTZ # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 sidebar_sticky: true
-sidebar_wide: true
+sidebar_wide: false
 
 
 
@@ -70,7 +70,7 @@ assets:
 author:
   name   : "Xinlei(Leo) Yu"
   avatar : "/assets/images/myself_new.png"
-  bio    : "Xinlei is a Master's student in Computer Engineering at the University of Southern California"
+  bio    : "Master's student in Computer Engineering at the University of Southern California"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -94,7 +94,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/xinlei_yu666/"
     - label: "LinkedIn"
-      icon: "fab fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/xinlei-yu/"
 
 defaults:
