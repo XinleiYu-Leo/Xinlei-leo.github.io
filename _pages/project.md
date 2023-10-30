@@ -25,7 +25,7 @@ Electro-tactile Sleeve prototype
 
 Designed a **computer vision-based infant motor learning assistant toy**, aptly named the "Tummy Time Toy" (patent pending). This toy, similar to a play gym, **rewards infants** with lights and music when they lift their heads past a certain threshold, encouraging the development of **prone motor skills**. Its primary goal is to study if babies can learn to control their bodies when on their tummy, potentially assisting in **muscle control** and **increasing tummy time tolerance**. From a technical perspective, the toy is divided into two components: the front end, which offers user interaction, and the back end, which is responsible for computer vision, control logic, and various APIs. The toy and the data collected through studies will be part of a Ph.D. student's dissertation.  
 
-While the toy is currently undergoing the US patent evaluation and specific details remain confidential, I'm pleased to offer a brief demonstration showcased at the NSF DARE conference in 2023.
+While the toy is currently undergoing US patent evaluation and specific details remain confidential, I'm pleased to offer a brief demonstration showcased at the NSF DARE conference in 2023.
 
 **Please check out the demo below by clicking the picture below**
 
@@ -33,9 +33,9 @@ While the toy is currently undergoing the US patent evaluation and specific deta
 
 ---
 
-## 3. Course/Research Project: EEG based Emotion Recognition											 	                                                                  (October 2023 - Present)
+## 3. Course/Research Project: EEG-based Emotion Recognition											 	                                                                  (October 2023 - Present)
 
-Currently, I'm working on a project that investigates enhancing EEG-based emotion recognition by applying Kalman filtering and smoothing techniques to EEG data from the public SEED dataset. The ultimate goal is to improve the evaluation of perceptual properties and human-computer interaction by enabling more precise quantification of human emotional states through EEG signal processing.
+Currently, I'm working on a project that investigates enhancing EEG-based emotion recognition by applying Kalman filtering and smoothing techniques to EEG data from the public SEED dataset. <strong>The ultimate goal is to improve the evaluation of perceptual properties and human-computer interaction by enabling more precise quantification of human emotional states through EEG signal processing.</strong>
 
 
 ---
