@@ -6,11 +6,12 @@ title: "Selected Projects"
 
 # Master's Project (2022-2023)
 
-## 1. Ongoing Project: Wearable Electrotactile Rendering Device		    
+## 1. Ongoing Research Project: Wearable Electrotactile Rendering Device		    
 
-Working on a haptic project that investigates the human perception of and emotional response to <strong>electro-tactile stimulation</strong>. The further goal is to build a <strong>personalized</strong> and <strong>pleasant</strong> electro-tactile device that <strong>works seamlessly with other stimulus</strong> modalities such as visual and auditory.
+I'm working on a haptic project that investigates the human perception of and emotional response to <strong>electro-tactile stimulation</strong>. The further goal is to build a <strong>personalized</strong> and <strong>pleasant</strong> electro-tactile device that <strong>works seamlessly with other stimulus</strong> modalities such as visual and auditory.
 
-At the recent Southern California Robotics Symposium, I had the privilege of presenting our preliminary research on the effect of perception of electro-tactile stimulation. [The details of the symposium can be found here.](https://sites.uci.edu/scr2023/schedule/) The symposium, renowned for gathering the brightest minds in robotics from the Southern California region including USC, UCLA, Cal Tech, UCI, etc., provided an engaging platform for discourse on emerging trends and technologies. 
+At the recent Southern California Robotics Symposium [SCR'23](https://sites.uci.edu/scr2023/schedule/), I had the honor of presenting our preliminary research on the effect of perception of electro-tactile stimulation. Our study examined how detection threshold (DT) and pain threshold (PT) are affected by the frequency and location of electro-tactile stimulation on the forearm. We found location significantly impacts DT and PT, with the ventral side more sensitive than the dorsal. Our findings emphasize the need for location-specific calibration when designing electro-tactile systems.
+
 <img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/talk_SCR.png" alt="Sleeve Image" style="height: 500px; width:700px;"/>
 
 Electro-tactile Sleeve prototype
@@ -24,7 +25,7 @@ Electro-tactile Sleeve prototype
 
 Designed a **computer vision-based infant motor learning assistant toy**, aptly named the "Tummy Time Toy" (patent pending). This toy, similar to a play gym, **rewards infants** with lights and music when they lift their heads past a certain threshold, encouraging the development of **prone motor skills**. Its primary goal is to study if babies can learn to control their bodies when on their tummy, potentially assisting in **muscle control** and **increasing tummy time tolerance**. From a technical perspective, the toy is divided into two components: the front end, which offers user interaction, and the back end, which is responsible for computer vision, control logic, and various APIs. The toy and the data collected through studies will be part of a Ph.D. student's dissertation.  
 
-Although the toy is under the US patent review process and I could not disclose many details, I'm happy to share a short demo presented at the NSF DARE conference 2023. 
+While the toy is currently undergoing the US patent evaluation and specific details remain confidential, I'm pleased to offer a brief demonstration showcased at the NSF DARE conference in 2023.
 
 **Please check out the demo below by clicking the picture below**
 
@@ -32,7 +33,14 @@ Although the toy is under the US patent review process and I could not disclose 
 
 ---
 
-## 3. Personal Project: Haptic Knowledge Base chatbot											 	                                                                  (May 2023)
+## 3. Course/Research Project: EEG based Emotion Recognition											 	                                                                  (October 2023 - Present)
+
+Currently, I'm working on a project that investigates enhancing EEG-based emotion recognition by applying Kalman filtering and smoothing techniques to EEG data from the public SEED dataset. The ultimate goal is to improve the evaluation of perceptual properties and human-computer interaction by enabling more precise quantification of human emotional states through EEG signal processing.
+
+
+---
+
+## 4. Side Project: Haptic Knowledge Base chatbot											 	                                                                  (May 2023)
 
 Built a **GPT-based chatbot** with a custom haptic research database using LangChain(call embedding model), LlamaIndex(vector indexing), OpenAI APIs, and gradio(lightweight UI). Provided researchers with a chatbot with the latest and custom database in the research domain and the power of chatGPT. [GitHub Link](https://github.com/xinleiyuUSC/haptics_chatBot)
 
@@ -40,7 +48,7 @@ Built a **GPT-based chatbot** with a custom haptic research database using LangC
 
 ---
 
-## 4. Course Project: Artsy Web/Android App											 	                                                                    (June 2022)
+## 5. Course Project: Artsy Web/Android App											 	                                                                    (June 2022)
 
 Built an Android mobile application for users to search for artists from Artsy’s database, look at detailed information about them(artwork image, bio, description, etc.) using various Artsy APIs, and add them to favorites for easy access. [GitHub Link](https://github.com/XinleiYu-Leo/Artsy_App)
 
