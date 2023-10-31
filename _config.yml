@@ -117,6 +117,21 @@ defaults:
       layout: single
       author_profile: true
 
+project:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "my-site"
+  -
+    scope:
+      path: "projects"
+      type: "pages" # previously `page` in Jekyll 2.2.
+    values:
+      layout: "project" # overrides previous default layout
+      author: "Xinlei"
+
 category_archive:
   type: liquid
   path: /categories/
