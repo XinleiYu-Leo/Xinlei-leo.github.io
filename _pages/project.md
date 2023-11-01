@@ -23,13 +23,13 @@ layout: "collection"
 
 # Past Research Project 
 
-|:---------------------:|:---------------------------|
+|:-------------------------:|:---------------------------|
 |![electro_diagram][electro]|**Multi-armed bandit-based calibration for Electro-tactile Simulation:** Developed an electro-tactile display with a Sensory PCI card and a group of power sources and amplifiers and designed a multi-armed bandit-based calibration method to find an optimal signal parameter for pleasant stimulation. <br><br> [[Github(partially available)](https://github.com/xinleiyuUSC/MAB_UCB)] |
 | ![image_3T][3T]               | **Tummy Time Toy:** A computer vision-based infant motor learning assistant toy (under US Patent review). This interactive toy rewards infants with lights and music when they lift their heads past a certain threshold, encouraging the development of prone motor skills. The primary goal is to study whether babies can learn to control their bodies during tummy time with the toy's assistance, aiding in muscle control and increasing their tolerance for tummy time.   <br><br> [[video](https://youtu.be/6PznLd5wy5c)] [Github(available soon)]  |
 
 # Past Project
 
-|:------------------:|:---------------------------|
+|:------------------------:|:---------------------------|
 | ![image_chatbot][haptics_chatbot]              | **Chatgpt-based chatbot with Haptics Knowledge base:** A **GPT-based chatbot** with a custom haptic research database using LangChain(call embedding model), LlamaIndex(vector indexing), OpenAI APIs, and gradio(lightweight UI). Provided researchers with a chatbot with the latest and custom database in the research domain and the power of chatGPT.  <br><br> [GitHub](https://github.com/xinleiyuUSC/haptics_chatBot)  |
 | ![image_artsy][artsy]                | **Artsy App:** An Android and Web application for users to search for artists from Artsy’s database, look at detailed information about them(artwork image, bio, description, etc.)  <br><br> [GitHub Link](https://github.com/XinleiYu-Leo/Artsy_App)  |
 
