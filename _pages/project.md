@@ -27,17 +27,18 @@ layout: "collection"
 
 | Image               | Project name    | URL  |
 |:----------------------:|:------------------------|:---|
-||#*Multi-armed bandit-based calibration for Electro-tactile Simulation:* Developed an electro-tactile display with a Sensory PCI card and a group of power sources and amplifiers and designed a multi-armed bandit-based calibration method to find an optimal signal parameter for pleasant stimulation.||
-| ![image_3T][3T]               | <strong>Tummy Time Toy:</strong> Designed a **computer vision-based infant motor learning assistant toy**, aptly named the "Tummy Time Toy" (patent pending). This toy, similar to a play gym, **rewards infants** with lights and music when they lift their heads past a certain threshold, encouraging the development of **prone motor skills**. Its primary goal is to study if babies can learn to control their bodies when on their tummy, potentially assisting in **muscle control** and **increasing tummy time tolerance**. From a technical perspective, the toy is divided into two components: the front end, which offers user interaction, and the back end, which is responsible for computer vision, control logic, and various APIs. The toy and the data collected through studies will be part of a Ph.D. student's dissertation.    | URL  |
-| ![image_chatbot][haptics_chatbot]              | **Chatgpt-based chatbot with Haptics Knowledge base:** Built a **GPT-based chatbot** with a custom haptic research database using LangChain(call embedding model), LlamaIndex(vector indexing), OpenAI APIs, and gradio(lightweight UI). Provided researchers with a chatbot with the latest and custom database in the research domain and the power of chatGPT.    | [GitHub](https://github.com/xinleiyuUSC/haptics_chatBot)  |
-| Image               | Project name    | URL  |
+|![electro_diagram][electro]|**Multi-armed bandit-based calibration for Electro-tactile Simulation:** Developed an electro-tactile display with a Sensory PCI card and a group of power sources and amplifiers and designed a multi-armed bandit-based calibration method to find an optimal signal parameter for pleasant stimulation.| [Github(partially available)](https://github.com/xinleiyuUSC/MAB_UCB)|
+| ![image_3T][3T]               | **Tummy Time Toy:** A computer vision-based infant motor learning assistant toy (under US Patent review). This interactive toy rewards infants with lights and music when they lift their heads past a certain threshold, encouraging the development of prone motor skills. The primary goal is to study whether babies can learn to control their bodies during tummy time with the toy's assistance, aiding in muscle control and increasing their tolerance for tummy time.    | [[video](https://youtu.be/6PznLd5wy5c)] [Github(available soon)]  |
+| ![image_chatbot][haptics_chatbot]              | **Chatgpt-based chatbot with Haptics Knowledge base:** A **GPT-based chatbot** with a custom haptic research database using LangChain(call embedding model), LlamaIndex(vector indexing), OpenAI APIs, and gradio(lightweight UI). Provided researchers with a chatbot with the latest and custom database in the research domain and the power of chatGPT.    | [GitHub](https://github.com/xinleiyuUSC/haptics_chatBot)  |
+| ![image_artsy][artsy]                | **Artsy App:** An Android and Web application for users to search for artists from Artsy’s database, look at detailed information about them(artwork image, bio, description, etc.)   | [GitHub Link](https://github.com/XinleiYu-Leo/Artsy_App)  |
 
 [3T]: https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/TTT.png "3T Image"
 
 [haptics_chatbot]: https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/chatBot.png "chatbot Image"
 
-[cell-image]: https://jekyllrb.com/img/octojekyll.png "An exemplary image"
+[electro]: https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/electro_diagram.png "Elec image"
 
+[artsy]: https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/ArtsyImage.png "Artsy image"
 
 ## 1. Ongoing Research Project: Wearable Electrotactile Rendering Device		    
 
