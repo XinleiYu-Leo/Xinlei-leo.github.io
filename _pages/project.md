@@ -8,10 +8,14 @@ layout: "collection"
 
 | Image               | Project name    | URL  |
 |:---------------:|:------------------------|:---|
-| 1. ![example][cell-image]          | project 1             | [SCR'23](https://sites.uci.edu/scr2023/schedule/) |
+| 1. ![image1][SCR_Pre_Image]          | At the recent Southern California Robotics Symposium [SCR'23](https://sites.uci.edu/scr2023/schedule/), I had the honor of presenting our preliminary research on the effect of perception of electro-tactile stimulation. Our study examined how detection threshold (DT) and pain threshold (PT) are affected by the frequency and location of electro-tactile stimulation on the forearm. We found location significantly impacts DT and PT, with the ventral side more sensitive than the dorsal. Our findings emphasize the need for location-specific calibration when designing electro-tactile systems.           | [SCR'23](https://sites.uci.edu/scr2023/schedule/) |
 | 1. ![example][cell-image]          | project 2                  | [SCR'23](https://sites.uci.edu/scr2023/schedule/) |
 | 1. ![example][cell-image]          | project 3                  | [SCR'23](https://sites.uci.edu/scr2023/schedule/) |
 
+
+[SCR_Pre_Image]: https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/talk_SCR.png "PRE Image"
+
+[cell-image]: https://jekyllrb.com/img/octojekyll.png "An exemplary image"
 
 [cell-image]: https://jekyllrb.com/img/octojekyll.png "An exemplary image"
 
