@@ -83,7 +83,7 @@ author:
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://www.instagram.com/xinlei_yu666/"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/xinlei-yu/"
 
 footer:
