@@ -8,8 +8,8 @@ layout: "collection"
 
 | Image               | Project name    | URL  |
 |:---------------:|:------------------------|:---|
-| 1. ![image1][SCR_Pre_Image]          | At the recent Southern California Robotics Symposium [SCR'23](https://sites.uci.edu/scr2023/schedule/), I had the honor of presenting our preliminary research on the effect of perception of electro-tactile stimulation. Our study examined how detection threshold (DT) and pain threshold (PT) are affected by the frequency and location of electro-tactile stimulation on the forearm. We found location significantly impacts DT and PT, with the ventral side more sensitive than the dorsal. Our findings emphasize the need for location-specific calibration when designing electro-tactile systems.           | [SCR'23](https://sites.uci.edu/scr2023/schedule/) |
-| 1. ![example][cell-image]          | project 2                  | [SCR'23](https://sites.uci.edu/scr2023/schedule/) |
+| 1. ![image1][SCR_Pre_Image]          | At the recent Southern California Robotics Symposium [SCR'23](https://sites.uci.edu/scr2023/schedule/), I had the honor of presenting our preliminary research on the effect of perception of electro-tactile stimulation. Our study examined how detection threshold (DT) and pain threshold (PT) are affected by the frequency and location of electro-tactile stimulation on the forearm. We found location significantly impacts DT and PT, with the ventral side more sensitive than the dorsal. Our findings emphasize the need for location-specific calibration when designing electro-tactile systems.           | paper link video |
+| 1. [![3T Demo](https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/3T_Demo_DARE-Cover.jpg)](https://youtu.be/6PznLd5wy5c "3T Demo")         | <strong>Tummy Time Toy</strong>: Designed a **computer vision-based infant motor learning assistant toy**, aptly named the "Tummy Time Toy" (patent pending). This toy, similar to a play gym, **rewards infants** with lights and music when they lift their heads past a certain threshold, encouraging the development of **prone motor skills**. Its primary goal is to study if babies can learn to control their bodies when on their tummy, potentially assisting in **muscle control** and **increasing tummy time tolerance**. From a technical perspective, the toy is divided into two components: the front end, which offers user interaction, and the back end, which is responsible for computer vision, control logic, and various APIs. The toy and the data collected through studies will be part of a Ph.D. student's dissertation.                    | [video](https://youtu.be/6PznLd5wy5c) |
 | 1. ![example][cell-image]          | project 3                  | [SCR'23](https://sites.uci.edu/scr2023/schedule/) |
 
 
@@ -43,7 +43,7 @@ While the toy is currently undergoing US patent evaluation and specific details 
 
 **Please check out the demo below by clicking the picture below**
 
-[![3T Demo](https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/3T_Demo_DARE-Cover.jpg)](https://youtu.be/6PznLd5wy5c "3T Demo")
+
 
 ---
 
