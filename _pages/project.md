@@ -2,6 +2,7 @@
 permalink: /project/
 title: "Research and Projects"
 layout: "collection"
+classes: wide
 ---
 
 # Presentation and Demo
