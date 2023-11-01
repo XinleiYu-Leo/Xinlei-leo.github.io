@@ -6,6 +6,19 @@ layout: "collection"
 
 # Master's Project (2022-2023)
 
+| :               | MathJax \|\\| Image     | :  |||
+|:---------------:|:------------------------|:---|
+| Apple           | : Apple :               | Apple |
+| Banana          | Banana                  | Banana |
+| Orange          | Orange                  | Orange |
+| :               | Rowspan is 4            | :     |
+| ^^ A. Peach     |                         | How's it? |
+| ^^ B. Orange    | 1. ![example][cell-image] | |
+| ^^ C. Banana    | ^^ 2. $I = \int \rho R^{2} dV$ | **It's OK!** |
+
+[cell-image]: https://jekyllrb.com/img/octojekyll.png "An exemplary image"
+
+
 ## 1. Ongoing Research Project: Wearable Electrotactile Rendering Device		    
 
 I'm working on a haptic project that investigates the human perception of and emotional response to <strong>electro-tactile stimulation</strong>. The further goal is to build a <strong>personalized</strong> and <strong>pleasant</strong> electro-tactile device that <strong>works seamlessly with other stimulus</strong> modalities such as visual and auditory.
