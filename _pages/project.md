@@ -6,38 +6,31 @@ layout: "collection"
 
 # Presentation and Demo
 
-<table>
-  <colgroup>
-    <col style="width:40%">
-    <col style="width:60%">
-  </colgroup>
+<table style="width:100%;">
   <tr>
-    <td>
+    <td class="table-col1">
 
 ![image1][SCR_Pre_Image]
 
     </td>
-    <td>
+    <td class="table-col2">
 
-<strong>Exploring Electrotactile Stimulation as a Modality for Sensation Illusion on the Arm:</strong> Presented at the recent [SCR'23](https://sites.uci.edu/scr2023/schedule/)
-<br>
-[[abstract](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/2/5230/files/2023/09/66_SCR_23_Xinlei_Yu.pdf)]
+**Exploring Electrotactile Stimulation as a Modality for Sensation Illusion on the Arm:** Presented at the recent [SCR'23](https://sites.uci.edu/scr2023/schedule/)
+<br> [[abstract](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/2/5230/files/2023/09/66_SCR_23_Xinlei_Yu.pdf)]
 
     </td>
   </tr>
   <tr>
-    <td>
+    <td class="table-col1">
 
 [![3T Demo](https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/3T_Demo_DARE-Cover.jpg)](https://youtu.be/6PznLd5wy5c "3T Demo")
 
     </td>
-    <td>
+    <td class="table-col2">
 
 <strong>Tummy Time Toy</strong>: An Infant Learning Toy
-<br>
-Demo at NSF DARE'23
-<br>
-[[video](https://youtu.be/6PznLd5wy5c)]
+<br> Demo at NSF DARE'23
+<br> [[video](https://youtu.be/6PznLd5wy5c)]
 
     </td>
   </tr>
