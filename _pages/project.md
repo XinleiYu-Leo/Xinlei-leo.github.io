@@ -41,6 +41,8 @@ layout: "collection"
 
 [artsy]: https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/ArtsyImage.png "Artsy image"
 
+
+[comment]: <> (
 ## 1. Ongoing Research Project: Wearable Electrotactile Rendering Device		    
 
 I'm working on a haptic project that investigates the human perception of and emotional response to <strong>electro-tactile stimulation</strong>. The further goal is to build a <strong>personalized</strong> and <strong>pleasant</strong> electro-tactile device that <strong>works seamlessly with other stimulus</strong> modalities such as visual and auditory.
@@ -91,8 +93,7 @@ The project is also on the Web version. Another version of backends written in N
 
 <img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/ArtsyImage.png" alt="Artsy Web Site Demo Image" style="height: 400px; width:700px;"/>
 <img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/ArtsyImage2.png" alt="Artsy Web Site Demo Image" style="height: 400px; width:700px;"/>
-
-
+)
 
 # Undergraduate Project (2018-2021)
 ---
