@@ -8,13 +8,13 @@ layout: "collection"
 
 ## 1. Ongoing Research Project: Wearable Electrotactile Rendering Device		    
 
-#### I'm working on a haptic project that investigates the human perception of and emotional response to <strong>electro-tactile stimulation</strong>. The further goal is to build a <strong>personalized</strong> and <strong>pleasant</strong> electro-tactile device that <strong>works seamlessly with other stimulus</strong> modalities such as visual and auditory.
+I'm working on a haptic project that investigates the human perception of and emotional response to <strong>electro-tactile stimulation</strong>. The further goal is to build a <strong>personalized</strong> and <strong>pleasant</strong> electro-tactile device that <strong>works seamlessly with other stimulus</strong> modalities such as visual and auditory.
 
-#### At the recent Southern California Robotics Symposium [SCR'23](https://sites.uci.edu/scr2023/schedule/), I had the honor of presenting our preliminary research on the effect of perception of electro-tactile stimulation. Our study examined how detection threshold (DT) and pain threshold (PT) are affected by the frequency and location of electro-tactile stimulation on the forearm. We found location significantly impacts DT and PT, with the ventral side more sensitive than the dorsal. Our findings emphasize the need for location-specific calibration when designing electro-tactile systems.
+At the recent Southern California Robotics Symposium [SCR'23](https://sites.uci.edu/scr2023/schedule/), I had the honor of presenting our preliminary research on the effect of perception of electro-tactile stimulation. Our study examined how detection threshold (DT) and pain threshold (PT) are affected by the frequency and location of electro-tactile stimulation on the forearm. We found location significantly impacts DT and PT, with the ventral side more sensitive than the dorsal. Our findings emphasize the need for location-specific calibration when designing electro-tactile systems.
 
 <img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/talk_SCR.png" alt="Sleeve Image" style="height: 500px; width:700px;"/>
 
-#### Electro-tactile Sleeve prototype
+Electro-tactile Sleeve prototype
 <img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/sleeve_prototype.png" alt="Sleeve Image" style="height: 500px; width:500px;"/>
 
 
@@ -23,9 +23,9 @@ layout: "collection"
 
 ## 2. Research Project: Tummy Time Toy										 	                                                                   (July 2022 to April 2023) [Demo available!](https://youtu.be/6PznLd5wy5c)
 
-#### Designed a **computer vision-based infant motor learning assistant toy**, aptly named the "Tummy Time Toy" (patent pending). This toy, similar to a play gym, **rewards infants** with lights and music when they lift their heads past a certain threshold, encouraging the development of **prone motor skills**. Its primary goal is to study if babies can learn to control their bodies when on their tummy, potentially assisting in **muscle control** and **increasing tummy time tolerance**. From a technical perspective, the toy is divided into two components: the front end, which offers user interaction, and the back end, which is responsible for computer vision, control logic, and various APIs. The toy and the data collected through studies will be part of a Ph.D. student's dissertation.  
+Designed a **computer vision-based infant motor learning assistant toy**, aptly named the "Tummy Time Toy" (patent pending). This toy, similar to a play gym, **rewards infants** with lights and music when they lift their heads past a certain threshold, encouraging the development of **prone motor skills**. Its primary goal is to study if babies can learn to control their bodies when on their tummy, potentially assisting in **muscle control** and **increasing tummy time tolerance**. From a technical perspective, the toy is divided into two components: the front end, which offers user interaction, and the back end, which is responsible for computer vision, control logic, and various APIs. The toy and the data collected through studies will be part of a Ph.D. student's dissertation.  
 
-#### While the toy is currently undergoing US patent evaluation and specific details remain confidential, I'm pleased to offer a brief demonstration showcased at the NSF DARE conference in 2023.
+While the toy is currently undergoing US patent evaluation and specific details remain confidential, I'm pleased to offer a brief demonstration showcased at the NSF DARE conference in 2023.
 
 **Please check out the demo below by clicking the picture below**
 
