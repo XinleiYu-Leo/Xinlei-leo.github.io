@@ -1,7 +1,7 @@
 ---
 permalink: /project/
 title: "Selected Projects"
-layout: "project"
+layout: "collection"
 ---
 
 # Master's Project (2022-2023)
