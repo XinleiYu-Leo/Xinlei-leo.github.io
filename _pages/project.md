@@ -14,7 +14,9 @@ layout: "collection"
 
 
 # Project 
+
 | Image               | Project name    | URL  |
+|:---------------:|:------------------------|:---|
 | ![image_3T][3T]           | <strong>Tummy Time Toy</strong>: Designed a **computer vision-based infant motor learning assistant toy**, aptly named the "Tummy Time Toy" (patent pending). This toy, similar to a play gym, **rewards infants** with lights and music when they lift their heads past a certain threshold, encouraging the development of **prone motor skills**. Its primary goal is to study if babies can learn to control their bodies when on their tummy, potentially assisting in **muscle control** and **increasing tummy time tolerance**. From a technical perspective, the toy is divided into two components: the front end, which offers user interaction, and the back end, which is responsible for computer vision, control logic, and various APIs. The toy and the data collected through studies will be part of a Ph.D. student's dissertation.    | URL  |
 | ![image_chatbot][haptics_chatbot]          | Built a **GPT-based chatbot** with a custom haptic research database using LangChain(call embedding model), LlamaIndex(vector indexing), OpenAI APIs, and gradio(lightweight UI). Provided researchers with a chatbot with the latest and custom database in the research domain and the power of chatGPT.    | [GitHub](https://github.com/xinleiyuUSC/haptics_chatBot)  |
 | Image               | Project name    | URL  |
