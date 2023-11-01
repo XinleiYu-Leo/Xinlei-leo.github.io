@@ -8,7 +8,7 @@ layout: "collection"
 
 ## 1. Ongoing Research Project: Wearable Electrotactile Rendering Device		    
 
-I'm working on a haptic project that investigates the human perception of and emotional response to <strong>electro-tactile stimulation</strong>. The further goal is to build a <strong>personalized</strong> and <strong>pleasant</strong> electro-tactile device that <strong>works seamlessly with other stimulus</strong> modalities such as visual and auditory.
+<p>I'm working on a haptic project that investigates the human perception of and emotional response to electro-tactile stimulation. The further goal is to build a personalized and pleasant electro-tactile device that works seamlessly with other stimulus modalities such as visual and auditory.</p>
 
 At the recent Southern California Robotics Symposium [SCR'23](https://sites.uci.edu/scr2023/schedule/), I had the honor of presenting our preliminary research on the effect of perception of electro-tactile stimulation. Our study examined how detection threshold (DT) and pain threshold (PT) are affected by the frequency and location of electro-tactile stimulation on the forearm. We found location significantly impacts DT and PT, with the ventral side more sensitive than the dorsal. Our findings emphasize the need for location-specific calibration when designing electro-tactile systems.
 
