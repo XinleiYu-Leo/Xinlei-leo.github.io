@@ -6,15 +6,12 @@ layout: "collection"
 
 # Master's Project (2022-2023)
 
-| :               | MathJax \|\\| Image     | :  |||
+| Image               | Project name    | URL  |
 |:---------------:|:------------------------|:---|
-| Apple           | : Apple :               | Apple |
-| Banana          | Banana                  | Banana |
-| Orange          | Orange                  | Orange |
-| :               | Rowspan is 4            | :     |
-| ^^ A. Peach     |                         | How's it? |
-| ^^ B. Orange    | 1. ![example][cell-image] | |
-| ^^ C. Banana    | ^^ 2. $I = \int \rho R^{2} dV$ | **It's OK!** |
+| 1. ![example][cell-image]          | project 1             | [SCR'23](https://sites.uci.edu/scr2023/schedule/) |
+| 1. ![example][cell-image]          | project 2                  | [SCR'23](https://sites.uci.edu/scr2023/schedule/) |
+| 1. ![example][cell-image]          | project 3                  | [SCR'23](https://sites.uci.edu/scr2023/schedule/) |
+
 
 [cell-image]: https://jekyllrb.com/img/octojekyll.png "An exemplary image"
 
