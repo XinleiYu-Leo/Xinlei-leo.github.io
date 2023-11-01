@@ -8,8 +8,7 @@ layout: "collection"
 
 | Image              | Project name    | URL  |
 |:--------------------:|:------------------------|:---|
-| ![image1][SCR_Pre_Image]          | **Exploring Electrotactile Stimulation as a Modality
-for Sensation Illusion on the Arm:** Presented At the recent Southern California Robotics Symposium [SCR'23](https://sites.uci.edu/scr2023/schedule/)        | [[abstract](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/2/5230/files/2023/09/66_SCR_23_Xinlei_Yu.pdf)] |
+| ![image1][SCR_Pre_Image]          | **Exploring Electrotactile Stimulation as a Modality for Sensation Illusion on the Arm:** Presented At the recent Southern California Robotics Symposium [SCR'23](https://sites.uci.edu/scr2023/schedule/)        | [[abstract](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/2/5230/files/2023/09/66_SCR_23_Xinlei_Yu.pdf)] |
 | [![3T Demo](https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/3T_Demo_DARE-Cover.jpg)](https://youtu.be/6PznLd5wy5c "3T Demo")         | <strong>Tummy Time Toy</strong>: An Infant Learning Toy      Demo at NSF DARE'23                 | [[video](https://youtu.be/6PznLd5wy5c)] |
 
 [SCR_Pre_Image]: https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/talk_SCR.png "scr"
