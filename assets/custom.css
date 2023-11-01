@@ -1,8 +1,12 @@
+.main__content {
+    font-size: 18px; /* or any desired size */
+}
+
+/* Media Queries 
+
 .page-content {
   width: {{ site.responsive_width[0].size }}; 
 }
-
-/* Media Queries */
 
 @media {{ site.responsive_width[1].media }} {
   .page-content {
@@ -15,3 +19,4 @@
     width: {{ site.responsive_width[2].size }};
   }
 }
+*/
