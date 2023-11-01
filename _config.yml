@@ -121,15 +121,15 @@ project:
   -
     scope:
       path: ""
-      type: "pages"
+      type: project
     values:
-      layout: "my-site"
+      layout: single
   -
     scope:
       path: "projects"
       type: "pages" # previously `page` in Jekyll 2.2.
     values:
-      layout: "project" # overrides previous default layout
+      layout: project # overrides previous default layout
       author: "Xinlei"
 
 category_archive:
