@@ -14,5 +14,7 @@ He likes various sports and outdoor activities. He likes playing soccer weekly a
 ----
 
 You can find Xinlei's CV at [link](https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/cv_Xinlei_Yu.pdf).
+<br>
 Read more about Xinlei's [Research and Projects](https://xinleiyu-leo.github.io/Xinlei-leo.github.io/project/).
+<br>
 Posts and the latest news at [Posts](https://xinleiyu-leo.github.io/Xinlei-leo.github.io/posts/).
