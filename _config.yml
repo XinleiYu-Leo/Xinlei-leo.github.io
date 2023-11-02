@@ -67,6 +67,9 @@ plugins:
 assets:
   - "assets/custom.css"
 
+avatar_width: 200
+avatar_height: 200
+
 
 author:
   name   : "Xinlei(Leo) Yu"
