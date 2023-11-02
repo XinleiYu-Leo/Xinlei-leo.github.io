@@ -1,7 +1,6 @@
 ---
 permalink: /project/
 title: "Research and Projects"
-layout: page
 classes: wide
 ---
 
@@ -26,7 +25,7 @@ classes: wide
 # Past Research Project 
 
 |:-------------------------:|:---------------------------|
-|![electro_diagram][electro]|**Multi-armed bandit-based calibration for Electro-tactile Simulation:** Developed an electro-tactile display with a Sensory PCI card and a group of power sources and amplifiers and designed a multi-armed bandit-based calibration method to find an optimal signal parameter for pleasant stimulation.  *Multi-armed bandit-based calibration for Electro-tactile Simulation:** Developed an electro-tactile display with a Sensory PCI card and a group of power sources and amplifiers and designed a multi-armed bandit-based calibration method to find an optimal signal parameter for pleasant stimulation.*Multi-armed bandit-based calibration for Electro-tactile Simulation:** Developed an electro-tactile display with a Sensory PCI card and a group of power sources and amplifiers and designed a multi-armed bandit-based calibration method to find an optimal signal parameter for pleasant stimulation. <br><br> [[Github(partially available)](https://github.com/xinleiyuUSC/MAB_UCB)] |
+|![electro_diagram][electro]        |**Multi-armed bandit-based calibration for Electro-tactile Simulation:** Developed an electro-tactile display with a Sensory PCI card and a group of power sources and amplifiers and designed a multi-armed bandit-based calibration method to find an optimal signal parameter for pleasant stimulation.  *Multi-armed bandit-based calibration for Electro-tactile Simulation:** Developed an electro-tactile display with a Sensory PCI card and a group of power sources and amplifiers and designed a multi-armed bandit-based calibration method to find an optimal signal parameter for pleasant stimulation.*Multi-armed bandit-based calibration for Electro-tactile Simulation:** Developed an electro-tactile display with a Sensory PCI card and a group of power sources and amplifiers and designed a multi-armed bandit-based calibration method to find an optimal signal parameter for pleasant stimulation. <br><br> [[Github(partially available)](https://github.com/xinleiyuUSC/MAB_UCB)] |
 | ![image_3T][3T]               | **Tummy Time Toy:** A computer vision-based infant motor learning assistant toy (under US Patent review). This interactive toy rewards infants with lights and music when they lift their heads past a certain threshold, encouraging the development of prone motor skills. The primary goal is to study whether babies can learn to control their bodies during tummy time with the toy's assistance, aiding in muscle control and increasing their tolerance for tummy time.   <br><br> [[video](https://youtu.be/6PznLd5wy5c)] [Github(available soon)]  |
 
 # Past Project
