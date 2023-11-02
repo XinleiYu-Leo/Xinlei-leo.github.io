@@ -1,7 +1,7 @@
 ---
 permalink: /project/
 title: "Research and Projects"
-layout: "collection"
+layout: page
 classes: wide
 ---
 
