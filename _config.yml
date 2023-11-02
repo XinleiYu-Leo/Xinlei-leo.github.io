@@ -32,7 +32,7 @@ permalink: https://xinleiyu-leo.github.io/Xinlei-leo.github.io/index.html
 paginate: 4 # amount of posts to show
 paginate_path: /page:num/
 timezone: PDT # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 sidebar_sticky: true
 sidebar_wide: false
@@ -67,8 +67,8 @@ plugins:
 assets:
   - "assets/custom.css"
 
-avatar_width: 200
-avatar_height: 200
+avatar_width: 300
+avatar_height: 300
 
 
 author:
