@@ -41,6 +41,7 @@ classes: wide
 
 [electro]: https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/electro_diagram.png "Elec image"
 
+
 [cleaning_robot]: https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/cleaning_robot.jpg "C image"
 
-
+[artsy]: https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/ArtsyImage.png "Artsy image"
