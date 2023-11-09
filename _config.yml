@@ -79,7 +79,7 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://xinleiyu-leo.github.io/Xinlei-leo.github.io/about/"
-    - label: "GitHub with USC"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/xinleiyuUSC"
 #    - label: "Instagram"
@@ -91,14 +91,14 @@ author:
 
 footer:
   links:
-    - label: "GitHub with USC"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/xinleiyuUSC"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/xinlei_yu666/"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/xinlei-yu/"
 
 defaults:
