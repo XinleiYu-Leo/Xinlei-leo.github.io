@@ -14,13 +14,13 @@ Previously, he graduated from [Iowa State University](https://www.iastate.edu/) 
 ### Sports and Outdoor Activities
 I have a great passion for a variety of sports and outdoor activities. My enthusiasm is especially evident in my weekly participation in soccer games.
 
-<img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/soccer1.jpg" alt="Soccer Game" width="130" height="200" style="border-radius: 75%;" />
-<img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/soccer2.jpg" alt="Playing Soccer" width="200" height="160" style="border-radius: 75%;" />
+<img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/soccer1.jpg" alt="Soccer Game" width="130" height="200" style="border-radius: 80%;" />
+<img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/soccer2.jpg" alt="Playing Soccer" width="130" height="200" style="border-radius: 80%;" />
 
 ### My Feline Friend: Lil' Grey
 Since 2019, I've had a wonderful cat friend named Lil' Grey. 🐱
 
-<img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/cat.png" alt="Lil' Grey" width="160" height="200" style="border-radius: 70%;" />
+<img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/cat.png" alt="Lil' Grey" width="160" height="200" style="border-radius: 80%;" />
 
 
 
