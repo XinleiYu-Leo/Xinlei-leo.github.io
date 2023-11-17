@@ -11,6 +11,8 @@ Previously, he graduated from [Iowa State University](https://www.iastate.edu/) 
 
 He likes various sports and outdoor activities. He likes playing soccer weekly and competing in the IM league with friends.:soccer: And he has a cat friend named Lil' Grey. 🐱
 
+<img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/cat.png" alt="drawing" height="200" width="400"/>
+
 ----
 
 You can find Xinlei's CV at [link](https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/cv_Xinlei_Yu-3.pdf).
