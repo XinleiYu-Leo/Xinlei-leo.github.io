@@ -9,8 +9,12 @@ Previously, he graduated from [Iowa State University](https://www.iastate.edu/) 
 
 ----
 
-He likes various sports and outdoor activities. He likes playing soccer weekly and competing in the IM league with friends.:soccer: And he has a cat friend named Lil' Grey. 🐱
+**Leisure & Paws**
+He has a great passion for a variety of sports and outdoor activities. His enthusiasm is especially evident in his weekly participation in soccer games:soccer: 
+<img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/soccer1.jpg" alt="drawing" height="200" width="160"/>
+<img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/soccer2.jpg" alt="drawing" height="160" width="200"/>
 
+He has a cat friend named Lil' Grey from 2019. 🐱
 <img src="https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/images/cat.png" alt="drawing" height="200" width="160"/>
 
 ----
