@@ -9,6 +9,10 @@ Previously, he graduated from [Iowa State University](https://www.iastate.edu/) 
 
 ----
 
+My current research focuses on building a more generalized haptic device that not only works responsively with extended reality but also as a stand-alone device. This haptic device should offer a natural and pleasant user experience and improve immersion through multimodality. Besides this, I also want to investigate haptics intelligence.
+
+
+
 ## Leisure & Paws
 
 ### Sports and Outdoor Activities
