@@ -31,7 +31,7 @@ Since 2019, I've had a wonderful cat friend named Lil' Grey. 🐱
 
 ----
 
-You can find Xinlei's CV at [link](https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/cv_Xinlei_Yu-3.pdf).
+You can find Xinlei's CV at [link](https://raw.githubusercontent.com/XinleiYu-Leo/Xinlei-leo.github.io/master/assets/cv_Xinlei_Yu-6.pdf). (Last Updated on Dec 7, 2023)
 <br>
 Read more about Xinlei's [Research and Projects](https://xinleiyu-leo.github.io/Xinlei-leo.github.io/project/).
 <br>
